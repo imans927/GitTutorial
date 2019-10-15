@@ -2,7 +2,8 @@
 #include <string.h>
 #include "pred_controller.h"
 
-// I have added a comma=ent after first commit
+// I have added a comment after first commit
+// I have corrected the comment
 
 //float guess_edu (float U_KK_a[3*Nh],float V_Gen_a[9*Nh*Nh],float U_unc_kk[3*Nh])
 float guess_edu (float U_KK_a[3*Nh],float V_Gen_a_cpy[9*Nh*Nh],float U_unc_kk[3*Nh])
