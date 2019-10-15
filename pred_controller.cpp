@@ -4,7 +4,7 @@
 
 
 
-
+// Added newPrint to add print functionaility
 
 /*
 void predictive_controller(volatile float *X_KK_src,volatile float *Y_REF_KK_src,
